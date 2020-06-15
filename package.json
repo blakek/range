@@ -1,6 +1,6 @@
 {
   "name": "@blakek/range",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "dist/range.cjs.js",
   "module": "dist/range.esm.js",
   "browser": "dist/range.umd.js",
